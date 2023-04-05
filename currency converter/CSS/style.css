@@ -1,0 +1,43 @@
+body{
+    background-color: orange;
+}
+
+
+#input{
+    position: relative;
+    bottom: 100px;
+    
+}
+
+
+
+#kgbtn{
+    height: 50px;
+    margin-top: 10px ;
+    position: relative;
+    bottom: 100px;
+}
+
+.calculator{
+    padding: 5px;
+    border-radius: 1em;
+    height: 600px;
+    width: 250px;
+    margin: auto;
+    background-color: black;
+}
+
+   
+button{
+    background-color: black;
+    height: 40px;
+    width: 50px;
+    border-radius: 100%;
+    color: white;
+    border: #6a6c6d;
+}
+
+.calculator_keys button{ 
+    margin-left: 5px;
+    margin-top: 15px;
+}
